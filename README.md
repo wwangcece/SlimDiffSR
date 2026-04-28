@@ -1,9 +1,7 @@
 <h2 align="center">LED-SR: A Lightweight and Efficient Diffusion Model for Real-World Remote Sensing Image Super-Resolution</h2>
 
 <div align="center">
-
-<a href="https://arxiv.org/abs/2408.09151"><img src="https://img.shields.io/badge/ArXiv-2408.09151-red"></a>
-
+	
 Ce Wang<sup>1</sup>, Zhenyu Hu<sup>1</sup>, Wanjie Sun<sup>1,*</sup>
 
 <sup>1</sup>School of Remote Sensing and Information Engineering, Wuhan University
