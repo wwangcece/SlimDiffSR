@@ -48,8 +48,7 @@ Ce Wang<sup>1</sup>, Zhenyu Hu<sup>1</sup>, Wanjie Sun<sup>1,*</sup>
 
 ```bash
 # Clone this repository
-git clone https://github.com/Guaishou74851/AdcSR.git
-cd AdcSR
+git clone https://github.com/wwangcece/LED-SR
 
 # Create environment
 conda create -n LEDSR python=3.10 -y
