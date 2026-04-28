@@ -1,0 +1,16 @@
+pillow==9.1.1
+opencv-python-headless==4.11.0.86
+tqdm==4.65.2
+omegaconf==2.3.0
+torch==2.4.1
+torchvision==0.19.1
+torchaudio==2.4.1
+xformers==0.0.28.post1
+fairscale==0.4.13
+loralib==0.1.2
+timm==0.9.16
+pyiqa==0.1.13
+transformers==4.37.2
+diffusers==0.32.2
+peft==0.13.2
+pytorch-lightning==2.4.0
