@@ -1,4 +1,4 @@
-<h2 align="center">LED-SR: A Lightweight and Efficient Diffusion Model for Real-World Remote Sensing Image Super-Resolution</h2>
+<h2 align="center">SlimDiffSR: Toward Lightweight and Efficient Remote Sensing Image Super-Resolution via Diffusion Model Distillation</h2>
 
 <div align="center">
 	
