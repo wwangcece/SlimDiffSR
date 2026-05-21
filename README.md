@@ -1,5 +1,11 @@
 <h2 align="center">SlimDiffSR: Toward Lightweight and Efficient Remote Sensing Image Super-Resolution via Diffusion Model Distillation</h2>
 
+<p align="center">
+<a href="https://arxiv.org/html/2605.02198v1">
+📄 Paper Link
+</a>
+</p>
+
 <div align="center">
 	
 Ce Wang<sup>1</sup>, Zhenyu Hu<sup>1</sup>, Wanjie Sun<sup>1,*</sup>
